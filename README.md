@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-## This is an edit
+## This is NOT an edit. Really.
 
 Repo for the `GitHub Actions Fundamentals` training.
 
